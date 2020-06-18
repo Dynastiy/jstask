@@ -32,3 +32,6 @@
     background: #ffb20f;
     height: 100vh;
 }
+.carousel-item {
+    height: 30rem !important;
+}
